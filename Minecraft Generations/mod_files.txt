@@ -1,1 +1,6 @@
+remove disk/bb2/ssh_cmn.ar.03
+remove disk/bb2/ssh_cmn.ar.02
+remove disk/bb2/ssh_cmn.ar.01
+add disk/bb2/ssh_cmn.ar.00
+add disk/bb2/ssh_cmn.arl
 add mod.ini
